@@ -1,0 +1,75 @@
+#welcome {
+  text-align: center;
+  color: black;
+  padding: 0.5em 0;
+  border-top: solid 5px black;
+  border-bottom: solid 5px black;
+}
+
+
+#welcomePic {
+  width: 100%;
+  height: 150px;
+}
+
+
+body {
+  background-color: rgb(218, 159, 159);
+  background-size: cover;
+}
+
+.choicePicDiv {
+  margin: 0 auto;
+}
+
+
+#choicePic {
+  color: red;
+  text-decoration:underline
+}
+
+
+#getPic {
+  margin: 0 auto;
+  text-align: center ;
+  /* background-color: aliceblue; */
+}
+
+
+#dewaltImg {  
+  display: block;
+  margin: auto;
+  width: auto;
+  height: 500px;
+}
+
+
+#raceField {
+  background-color: white;  
+  width: auto;
+  font-size: large;
+  text-align: center;
+  width: auto;
+  margin: auto;
+}
+
+
+.btnWrapper {
+  border: 5px solid black;
+  display: flex;
+  justify-content: space-between;
+  /* flex-wrap: wrap; */
+  margin-bottom: 15px;
+}
+
+
+#button {
+  margin: 0 auto;
+  text-align: center ;
+}
+
+
+#goUrl {
+  background-color: blueviolet;
+  color: white;
+}
