@@ -1,0 +1,19 @@
+#button {
+  font-size: 80px;
+  color: red;
+  padding: auto;    
+ 
+  width: 800px;
+  height: 150px;  
+  margin-top: 10%;
+}
+
+body {
+  background-color: red;
+  background-size:  cover;
+  background-image:url("backimg.jpg");
+}
+
+#center {
+	text-align: center;
+}
